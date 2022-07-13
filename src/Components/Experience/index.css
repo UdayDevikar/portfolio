@@ -59,6 +59,7 @@
 .work-icons {
     width: 45%;
     margin: auto;
+    text-align: center;
 }
 
 .work-icons p {
@@ -71,6 +72,8 @@
     display: flex;
     flex-direction: column;
     margin: 20px 0px;
+    justify-content: center;
+    align-items: center;
 
 }
 .company img {
@@ -91,8 +94,12 @@
       flex-direction: column;
     }
 
+    .work-icons {
+        width: 95%;
+    }
+
     .skill {
-        padding: 10px 20px;
+        padding: 10px 0px;
     }
   }
 
