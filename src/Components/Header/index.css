@@ -1,0 +1,24 @@
+.header {
+    color: white;
+    display: flex;
+    font-family: var(--font-family);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20%
+
+}
+
+.description {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.angle-down {
+    margin-top: calc(100vh - 60%);
+    cursor: pointer;
+}
+
+.angle-down a {
+    color: white;
+}

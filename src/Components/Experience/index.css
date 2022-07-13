@@ -1,0 +1,98 @@
+.experience-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+    font-family: var(--font-family);
+}
+
+
+.experience-heading {
+    font-size: 30px;
+    margin: 20px 0px;
+}
+
+.experience-subheading {
+    text-align: center;
+    line-height: 25px;
+}
+
+
+
+.skils-wrapper {
+    display: flex;
+    margin-top: 5%;
+}
+
+
+.skill img {
+    width: auto;
+    height: 80px;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    margin: 20px;
+}
+
+
+.skill-icon p {
+    text-align: center;
+    margin: 30px 0px;
+    font-size: 20px;
+    font-family: var(--font-family);
+}
+.skill {
+    padding: 10px 100px;
+    text-align: center;
+}
+.skill img:hover {
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+
+}
+
+.company img {
+    width: 200px;
+    height: auto;
+}
+
+.work-icons {
+    width: 45%;
+    margin: auto;
+}
+
+.work-icons p {
+
+    font-size: 20px;
+    font-family: var(--font-family);
+}
+
+.company {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0px;
+
+}
+.company img {
+    margin: 20px 0px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .skil {
+      padding: 10px 40px;
+    }
+
+
+  }
+
+
+@media only screen and (max-width: 768px) {
+    .skils-wrapper {
+      flex-direction: column;
+    }
+
+    .skill {
+        padding: 10px 20px;
+    }
+  }
+

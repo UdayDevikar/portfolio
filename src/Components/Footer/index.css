@@ -1,0 +1,76 @@
+
+
+.footer-wrapper {
+    font-family: var(--font-family);
+    background: #0f1922;
+    position: relative;
+    color: white;
+}
+
+
+
+
+
+.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.hand {
+    text-align: center;
+    margin: auto;
+    padding: 20px 0px;
+}
+
+.contact {
+    width: 60%;
+    margin: auto;
+    padding: 20px 0px;
+    text-align: center;
+}
+.horizontal {
+    width: 60%;
+    background: white;
+    height: 0.2px;
+    margin: auto;
+}
+
+.icon {
+    margin: 30px 20px;
+}
+
+.icon svg {
+    fill: white;
+    transition: 0.5s linear;
+
+}
+
+.icon svg:hover {
+    transform: scale(1.2, 1.2);
+}
+
+.arrow-up {
+    cursor: pointer;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.copyright {
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.copyright a {
+    color: white;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .get-in-touch-description  {
+      width: 80%;
+    }
+  }
