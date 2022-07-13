@@ -16,6 +16,7 @@
 .experience-subheading {
     text-align: center;
     line-height: 25px;
+    width: 60%;
 }
 
 
@@ -63,7 +64,7 @@
 }
 
 .work-icons p {
-
+    margin: 50px 0px 0px 0px;
     font-size: 20px;
     font-family: var(--font-family);
 }
@@ -85,7 +86,6 @@
       padding: 10px 40px;
     }
 
-
   }
 
 
@@ -100,6 +100,10 @@
 
     .skill {
         padding: 10px 0px;
+    }
+
+    .experience-subheading {
+        width: 90%;
     }
   }
 

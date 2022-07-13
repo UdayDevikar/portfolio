@@ -25,8 +25,9 @@ function Experience() {
     <div id="experience" className="experience-wrapper">
       <div className="experience-heading">Experience</div>
       <div className="experience-subheading">
-        I've been doing web development for about 3 years now, and I'm always
-        eager to learn more in this fast paced industry.
+        I'm working as a frontend developer from 2+ years, Most of my work was related to javascript and React Js,
+        I'have some experience on node js as well.
+        I'm always eager to learn anything and everything related to javascript
       </div>
       <div className="skils-wrapper">
         <div className="skill-icon">
