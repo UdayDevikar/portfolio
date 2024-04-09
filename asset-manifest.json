@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c31c6387.css",
-    "main.js": "/portfolio/static/js/main.2c66fd7e.js",
-    "static/media/bg-unsplash.jpg": "/portfolio/static/media/bg-unsplash.98664e295a7d2d25e44a.jpg",
-    "static/media/python.png": "/portfolio/static/media/python.49c4c5298daab61efe71.png",
-    "static/media/profile-icon.jpg": "/portfolio/static/media/profile-icon.bc1873a78ae50c535ac5.jpg",
-    "static/media/uday_devikar_resume.pdf": "/portfolio/static/media/uday_devikar_resume.78ce80579ecfa28afba7.pdf",
-    "static/media/gatsby.png": "/portfolio/static/media/gatsby.2052285a87648d818ece.png",
-    "static/media/sass.png": "/portfolio/static/media/sass.d6fc8e612b0737823fb3.png",
-    "static/media/bitbucket.png": "/portfolio/static/media/bitbucket.7f8200a184c4bee2373a.png",
-    "static/media/firebase.png": "/portfolio/static/media/firebase.c9d12aabb7b2b16e4664.png",
-    "static/media/github.png": "/portfolio/static/media/github.e28b8bfe5285fa7e89cf.png",
-    "index.html": "/portfolio/index.html",
-    "main.c31c6387.css.map": "/portfolio/static/css/main.c31c6387.css.map",
-    "main.2c66fd7e.js.map": "/portfolio/static/js/main.2c66fd7e.js.map"
+    "main.css": "/static/css/main.5873f101.css",
+    "main.js": "/static/js/main.faf68178.js",
+    "static/media/bg-unsplash.webp": "/static/media/bg-unsplash.41d4d4df3d9caa085b54.webp",
+    "static/media/uday_devikar_resume.pdf": "/static/media/uday_devikar_resume.4edefa2e262f47720a28.pdf",
+    "static/media/profile-icon.jpg": "/static/media/profile-icon.bc1873a78ae50c535ac5.jpg",
+    "static/media/sass.webp": "/static/media/sass.157192d5be5fb65e6b96.webp",
+    "static/media/python.webp": "/static/media/python.96abfa4ce823967c2b62.webp",
+    "static/media/bitbucket.webp": "/static/media/bitbucket.c05133af459290375438.webp",
+    "static/media/persistent.webp": "/static/media/persistent.c9cc47f5c1fca8ae09a9.webp",
+    "static/media/gatsby.webp": "/static/media/gatsby.85106edf07054acc3caa.webp",
+    "static/media/firebase.webp": "/static/media/firebase.63b5396daa6f3eb322b4.webp",
+    "static/media/github.webp": "/static/media/github.364782104cc9d328b6af.webp",
+    "static/media/css.webp": "/static/media/css.3547d949d6955855ebe1.webp",
+    "static/media/storyblok.webp": "/static/media/storyblok.50d318f1696455dcaeb7.webp",
+    "static/media/react.webp": "/static/media/react.7c0807ed5819ee833f02.webp",
+    "static/media/mediaagility.webp": "/static/media/mediaagility.84c5f16dda70c61f6108.webp",
+    "static/media/linux.webp": "/static/media/linux.16d2187ff04ab0ba71de.webp",
+    "static/media/mongodb.webp": "/static/media/mongodb.ebc6b30b088cdb4d24b3.webp",
+    "static/media/html.webp": "/static/media/html.abc2bd55392728ff79e3.webp",
+    "static/media/js.webp": "/static/media/js.d47e9d047bad2ab43961.webp",
+    "static/media/node.webp": "/static/media/node.563af092c84c13f474ff.webp",
+    "index.html": "/index.html",
+    "main.5873f101.css.map": "/static/css/main.5873f101.css.map",
+    "main.faf68178.js.map": "/static/js/main.faf68178.js.map"
   },
   "entrypoints": [
-    "static/css/main.c31c6387.css",
-    "static/js/main.2c66fd7e.js"
+    "static/css/main.5873f101.css",
+    "static/js/main.faf68178.js"
   ]
 }
