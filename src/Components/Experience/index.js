@@ -1,24 +1,24 @@
 import React from "react";
 import "./index.css";
-import html from "../../assets/html.png";
-import css from "../../assets/css.png";
-import github from "../../assets/github.png";
-import js from "../../assets/js.png";
-import linux from "../../assets/linux.png";
-import mongodb from "../../assets/mongodb.png";
+import html from "../../assets/html.webp";
+import css from "../../assets/css.webp";
+import github from "../../assets/github.webp";
+import js from "../../assets/js.webp";
+import linux from "../../assets/linux.webp";
+import mongodb from "../../assets/mongodb.webp";
 
-import python from "../../assets/python.png";
-import sass from "../../assets/sass.png";
-import react from "../../assets/react.png";
-import node from "../../assets/node.png";
-import bitbucket from "../../assets/bitbucket.png";
-import storyblok from "../../assets/storyblok.png";
-import gatsby from "../../assets/gatsby.png";
-import firebase from "../../assets/firebase.png";
+import python from "../../assets/python.webp";
+import sass from "../../assets/sass.webp";
+import react from "../../assets/react.webp";
+import node from "../../assets/node.webp";
+import bitbucket from "../../assets/bitbucket.webp";
+import storyblok from "../../assets/storyblok.webp";
+import gatsby from "../../assets/gatsby.webp";
+import firebase from "../../assets/firebase.webp";
 
 // companies icon
-import mediaagility from "../../assets/mediaagility.jpeg";
-import persistent from "../../assets/persistent.png";
+import mediaagility from "../../assets/mediaagility.webp";
+import persistent from "../../assets/persistent.webp";
 
 function Experience() {
   return (

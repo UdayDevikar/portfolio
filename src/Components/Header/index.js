@@ -8,15 +8,9 @@ function Header() {
       <Navbar />
       <div className="header">
         <div className="heading">
-          <h1>Hi, I'M UDAY</h1>
+          <h1>I'm Uday Devikar</h1>
         </div>
-        <p className="description">Web Developer & Javascript Enthusiast</p>
-
-        <div className="angle-down">
-          <a href="#experience">
-            <i className="fa fa-angle-down" aria-hidden="true"></i>
-          </a>
-        </div>
+        <h3 className="description">Full Stack developer, with 4 years hands on experienced with working knowledge on current and in trend cloud and web development technologies.</h3>
       </div>
     </div>
   );
