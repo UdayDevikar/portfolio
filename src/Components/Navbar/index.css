@@ -2,12 +2,10 @@
 .main {
     background-size: cover;
     background-position: center;
-
     background-repeat: no-repeat;
     background-color: #000;
     color: #000;
     animation: transitionIn 1s;
-    height: 100vh;
 }
 
 .navbar {
@@ -17,14 +15,6 @@
     text-transform: uppercase;
 }
 
-.sticky {
-    background: black;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 100;
-
-}
 
 .navbar-links {
     display: flex;

@@ -62,7 +62,7 @@ function Navbar() {
 
           <div className="resume">
             <button>
-              <a href="/portfolio/assets/uday_devikar_resume.pdf" download >
+              <a href="/portfolio/assets/resumeUday.pdf" download >
                 Resume
               </a>
             </button>

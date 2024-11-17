@@ -21,10 +21,10 @@ function Footer() {
       <div className="horizontal"></div>
 
       <div className="icons">
-        <a className="icon" href="https://www.linkedin.com/in/uday-devikar-101867130/"><FaLinkedin size={40}  /></a>
-        <a className="icon" href="https://www.facebook.com/uday.devikar.3/"><FaFacebookSquare size={40} /></a>
-        <a  className="icon" href="https://github.com/UdayDevikar"><FaGithubSquare size={40} /></a>
-        <a className="icon" href="https://twitter.com/UdayDevikar"><FaTwitterSquare size={40} /></a>
+        <a className="icon" target="_blank" href="https://www.linkedin.com/in/uday-devikar-101867130/"><FaLinkedin size={40}  /></a>
+        <a className="icon" target="_blank" href="https://www.facebook.com/uday.devikar.3/"><FaFacebookSquare size={40} /></a>
+        <a  className="icon" target="_blank" href="https://github.com/UdayDevikar"><FaGithubSquare size={40} /></a>
+        <a className="icon" target="_blank" href="https://twitter.com/UdayDevikar"><FaTwitterSquare size={40} /></a>
       </div>
  
       

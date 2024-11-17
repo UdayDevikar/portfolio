@@ -6,9 +6,7 @@ function Experience() {
     <div id="experience" className="experience-wrapper">
       <div className="experience-heading">Experience</div>
       <div className="experience-subheading">
-        I'm working as a frontend developer from 2+ years, Most of my work was related to javascript and React Js,
-        I'have some experience on node js as well.
-        I'm always eager to learn anything and everything related to javascript
+      Software engineer with 5 years of experience in designing and developing scalable web applications, Specialized in Javascript, Typescript, React.Js and Next.JS. Strong Expertise in Micro-Frontend architecture, optimizing for SEO, accessibility and proficient in performance monitoring tools and dashboard creation and application error analysis. Experienced in Google Cloud Seeking a Senior Frontend Developer Role to drive innovation and deliver exceptional user experiences.
       </div>
       <div className="skils-wrapper">
         <div className="skill-icon">
@@ -36,7 +34,7 @@ function Experience() {
           <p> Companies I have worked for </p>
           <div className="company">
             <img src='/portfolio/assets/mediaagility.webp' alt="mediaAgility"/>
-            <img fill="black" src='/portfolio/assets/persistent.webp' alt="persistent" />
+            <img fill="black" src='/portfolio/assets/infy.webp' alt="infosys" />
           </div>
         </div>
       </div>

@@ -8,9 +8,9 @@ function Header() {
       <Navbar />
       <div className="header">
         <div className="heading">
-          <h1>I'm Uday Devikar</h1>
+          <h1>Hi, I'm Uday Devikar</h1>
         </div>
-        <h3 className="description">Full Stack developer, with 4 years hands on experienced with working knowledge on current and in trend cloud and web development technologies.</h3>
+        <h3 className="description">Software Engineer (Frontend), with 4 years experienced with working knowledge on current and in trend cloud and web development technologies.</h3>
       </div>
     </div>
   );
