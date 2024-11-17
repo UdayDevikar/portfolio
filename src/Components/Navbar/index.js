@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import "./index.css";
-import resume from "../../assets/uday_devikar_resume.pdf"
 
 function handleScroll() {
   const navbar = document.querySelector(".navbar");
@@ -63,7 +62,7 @@ function Navbar() {
 
           <div className="resume">
             <button>
-              <a href={resume} download >
+              <a href="/portfolio/assets/uday_devikar_resume.pdf" download >
                 Resume
               </a>
             </button>

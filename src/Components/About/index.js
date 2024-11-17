@@ -1,6 +1,5 @@
 import React from "react";
 import "./index.css";
-import profile from "../../assets/profile-icon.jpg";
 import { FaKeyboard } from "react-icons/fa";
 import { FaPlane } from "react-icons/fa";
 import { MdMovie } from "react-icons/md";
@@ -52,7 +51,7 @@ function About() {
         </div>
       </div>
       <div className="profile-icon">
-        <img src={profile} alt="profile" />
+        <img src='/portfolio/assets/profile-icon.jpg' alt="profile" />
       </div>
     </div>
   );

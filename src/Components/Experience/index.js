@@ -1,24 +1,5 @@
 import React from "react";
 import "./index.css";
-import html from "../../assets/html.webp";
-import css from "../../assets/css.webp";
-import github from "../../assets/github.webp";
-import js from "../../assets/js.webp";
-import linux from "../../assets/linux.webp";
-import mongodb from "../../assets/mongodb.webp";
-
-import python from "../../assets/python.webp";
-import sass from "../../assets/sass.webp";
-import react from "../../assets/react.webp";
-import node from "../../assets/node.webp";
-import bitbucket from "../../assets/bitbucket.webp";
-import storyblok from "../../assets/storyblok.webp";
-import gatsby from "../../assets/gatsby.webp";
-import firebase from "../../assets/firebase.webp";
-
-// companies icon
-import mediaagility from "../../assets/mediaagility.webp";
-import persistent from "../../assets/persistent.webp";
 
 function Experience() {
   return (
@@ -34,28 +15,28 @@ function Experience() {
           <p>The technologies on which i have worked on </p>
           <div className="skill">
             <div className="skil-icon">
-              <img src={html} />
-              <img src={css} />
-              <img src={github} />
-              <img src={react} />
-              <img src={node} />
-              <img src={js} />
-              <img src={python} />
-              <img src={sass} />
-              <img src={mongodb} />
-              <img src={linux} />
-              <img src={storyblok} />
-              <img src={gatsby} />
-              <img src={bitbucket} />
-              <img src={firebase} />
+              <img src="/portfolio/assets/html.webp" alt="html" />
+              <img src='/portfolio/assets/css.webp' alt="css" />
+              <img src="/portfolio/assets/github.webp" alt="github"/>
+              <img src="/portfolio/assets/react.webp" alt="react"/>
+              <img src="/portfolio/assets/node.webp" alt="node" />
+              <img src='/portfolio/assets/js.webp' alt="Js"/>
+              <img src="/portfolio/assets/python.webp" alt="python" />
+              <img src="/portfolio/assets/sass.webp" alt="sass"/>
+              <img src="/portfolio/assets/mongodb.webp" alt="mongoDb" />
+              <img src="/portfolio/assets/linux.webp" alt="linux" />
+              <img src="/portfolio/assets/storyblok.webp" alt="storybook"/>
+              <img src="/portfolio/assets/gatsby.webp" alt="gatsby" />
+              <img src="/portfolio/assets/bitbucket.webp" alt="bitbucket"/>
+              <img src="/portfolio/assets/firebase.webp" alt="firebase" />
             </div>
           </div>
         </div>
         <div className="work-icons">
           <p> Companies I have worked for </p>
           <div className="company">
-            <img src={mediaagility} />
-            <img fill="black" src={persistent} />
+            <img src='/portfolio/assets/mediaagility.webp' alt="mediaAgility"/>
+            <img fill="black" src='/portfolio/assets/persistent.webp' alt="persistent" />
           </div>
         </div>
       </div>

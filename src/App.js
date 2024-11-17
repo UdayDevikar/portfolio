@@ -1,5 +1,4 @@
 import "./App.css";
-import { useState, useEffect } from "react";
 import About from "./Components/About";
 import Experience from "./Components/Experience";
 import Footer from "./Components/Footer";
