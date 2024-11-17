@@ -19,8 +19,7 @@ function About() {
 
 
           <p className="about-description">
-            I am currently Associated with MediaAgility (Acquired by Persistent
-            Systems) Working as a Software Engineer.
+            I am currently Associated with Infosys Working as a Software Engineer.
           </p>
 
           <div className="interests-wrapper">

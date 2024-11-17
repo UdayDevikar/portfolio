@@ -13,8 +13,8 @@ function Experience() {
           <p>The technologies on which i have worked on </p>
           <div className="skill">
             <div className="skil-icon">
-              <img src="/portfolio/assets/html.webp" alt="html" />
-              <img src='/portfolio/assets/css.webp' alt="css" />
+              <img src="/portfolio/assets/singleSpa.webp" alt="html" />
+              <img src='/portfolio/assets/nextJsLogo.webp' alt="css" />
               <img src="/portfolio/assets/github.webp" alt="github"/>
               <img src="/portfolio/assets/react.webp" alt="react"/>
               <img src="/portfolio/assets/node.webp" alt="node" />
@@ -33,8 +33,8 @@ function Experience() {
         <div className="work-icons">
           <p> Companies I have worked for </p>
           <div className="company">
-            <img src='/portfolio/assets/mediaagility.webp' alt="mediaAgility"/>
             <img fill="black" src='/portfolio/assets/infy.webp' alt="infosys" />
+            <img src='/portfolio/assets/mediaagility.webp' alt="mediaAgility"/>
           </div>
         </div>
       </div>
